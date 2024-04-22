@@ -68,7 +68,25 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 A quick look at the structure of this project.
 
-    
+    .
+    ├── public
+    │   ├───favicon.ico
+    │   ├───index.html
+    │   ├───manifest.json
+    │   └───robots.txt
+    ├── src
+    │   ├───components
+    │   │    ├───Navbar.css
+    │   │    └───Navbar.js
+    │   ├───images
+    │   │    └───netflix.png
+    │   ├───App.js
+    │   ├───data.js
+    │   ├───index.css
+    │   └───index.js
+    ├── package-lock.json
+    ├── package.json
+    └── README.md    
 
 ## :v: Learn More
 
