@@ -10,7 +10,7 @@
 
 # :computer: Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/884e3422-cf44-4a2e-a6de-194b224c35ed/deploy-status)](https://app.netlify.com/sites/responsive-navbar-legacy/deploys) <br />
-[Responsive Navbar Legacy](https://responsive-navbar-legacy.netlify.app/):point_left:
+[Legacy Responsive Navbar](https://responsive-navbar-legacy.netlify.app/):point_left:
 
 # :rocket: Getting Started with Create React App
 
