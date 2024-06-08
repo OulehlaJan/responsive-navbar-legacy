@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/oulehlajan/responsive-navbar?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/oulehlajan/responsive-navbar-legacy?style=for-the-badge)
 
 <!-- Created by, animated text -->
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 # :computer: Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/884e3422-cf44-4a2e-a6de-194b224c35ed/deploy-status)](https://app.netlify.com/sites/responsive-navbar-oulehlajan/deploys) <br />
-[Responsive Navbar](https://responsive-navbar-oulehlajan.netlify.app/):point_left:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/884e3422-cf44-4a2e-a6de-194b224c35ed/deploy-status)](https://app.netlify.com/sites/responsive-navbar-legacy/deploys) <br />
+[Responsive Navbar Legacy](https://responsive-navbar-legacy.netlify.app/):point_left:
 
 # :rocket: Getting Started with Create React App
 
